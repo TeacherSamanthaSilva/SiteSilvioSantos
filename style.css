@@ -23,6 +23,32 @@ body{
 	font-weight: bold;
 }
 
+figcaption {
+    padding: 10px;
+}
+
+main {
+    margin: 20px;
+}
+
+h2{
+    padding: 10px;
+}
+
+p{
+    margin-left: 30px;
+    margin-right: 30px
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    margin-left: 30px;
+    margin-right: 30px
+}
+
 /* cabeçalho */
 
 .cabecalho {
@@ -35,6 +61,7 @@ body{
 
 .paragrafoprincipal {
 	font-style: italic;
+   
 }
 
 /* corpo do site */
