@@ -36,3 +36,10 @@ body{
 .paragrafoprincipal {
 	font-style: italic;
 }
+
+/* corpo do site */
+
+.img-destaque {
+	text-align: center;
+	margin-top: 30px;
+}
