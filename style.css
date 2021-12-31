@@ -37,7 +37,8 @@ h2{
 
 p{
     margin-left: 30px;
-    margin-right: 30px
+    margin-right: 30px;
+    padding: 5px;
 }
 
 ul{
@@ -105,4 +106,9 @@ li{
 
 .curiosidades-container li {
 	height: 30px;
+}
+
+footer{
+    text-align: center;
+    font-weight:bold;
 }
